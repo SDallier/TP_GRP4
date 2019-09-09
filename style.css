@@ -49,3 +49,6 @@ text-shadow:#2A3F55;
 h2 {
 	color:red;
 }
+h1 {
+	border:solid blue 10px;
+}
